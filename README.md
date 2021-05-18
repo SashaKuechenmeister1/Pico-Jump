@@ -20,7 +20,7 @@ Create the famous phone game `Doodle Jump` on the `PICO-8` platform
 
 ### Sprites:
 **Character** <br/>
-![image](https://user-images.githubusercontent.com/55543651/118681700-14003200-b800-11eb-9696-d2966b50b39d.png) <br/> (Raphael from TMNT) <br/>
+![image](https://user-images.githubusercontent.com/55543651/118681700-14003200-b800-11eb-9696-d2966b50b39d.png) <br/> (Raphael from TMNT) <br/><br/>
 **Trampoline** <br/>
 ![image](https://user-images.githubusercontent.com/55543651/118681661-09de3380-b800-11eb-93b7-d1fdc546c8c0.png) <br/> <br/>
 **Jetpack/Rocket** <br/>
