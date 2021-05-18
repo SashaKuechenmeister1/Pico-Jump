@@ -10,8 +10,8 @@ Create the famous phone game `Doodle Jump` on the `PICO-8` platform
 ## The Game:
 
 ### Platforms:
-**Blue:** base platform (nothing special) \\
-**Yellow:** moves side to side \
+**Blue:** base platform (nothing special) \
+\ **Yellow:** moves side to side \
 **Green/Orange/Pizza:** First time you land on a ![image](https://user-images.githubusercontent.com/55543651/118682942-347cbc00-b801-11eb-9165-7293b9bb995a.png) platform it turns to ![image](https://user-images.githubusercontent.com/55543651/118682898-26c73680-b801-11eb-9e0d-a42dd5d91fec.png)
  and if you jump on that platform again, it turns into 
 ![image](https://user-images.githubusercontent.com/55543651/118682635-ebc50300-b800-11eb-899b-f00c177a594f.png)  
