@@ -82,7 +82,6 @@ function _draw()
   g_start=true
  end
  
-
  if g_guy[1].done then
  	gameoverprint("!gameover!",45,30)
  	rsprint("press 🅾️ to restart",27,80)
@@ -93,10 +92,6 @@ function _draw()
  	end
  end
 end
-
-
- 
-
 
 function restart()
 g_start=false
