@@ -1,5 +1,5 @@
 # Pico Jump
-The Game: https://www.lexaloffle.com/bbs/?tid=43091
+The Game: https://sashakmeister.itch.io/pico-jump
 
 ## Creators: 
 Raphael Ofeimu & Sasha Kuechenmeister
