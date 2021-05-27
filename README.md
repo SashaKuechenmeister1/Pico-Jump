@@ -1,4 +1,6 @@
 # Doodle Jump Pico-8
+## Play yourself:
+https://www.lexaloffle.com/bbs/?tid=43091
 
 ## Creators: 
 Raphael Ofeimu & Sasha Kuechenmeister
