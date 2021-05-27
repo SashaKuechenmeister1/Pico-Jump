@@ -4,10 +4,6 @@ The Game: https://www.lexaloffle.com/bbs/?tid=43091
 ## Creators: 
 Raphael Ofeimu & Sasha Kuechenmeister
 
-
-## Our idea:
-Create the famous phone game `Doodle Jump` on the `PICO-8` platform
-
 ## The Game:
 
 ### Platforms:
