@@ -1,4 +1,4 @@
-# Doodle Jump Pico-8
+# Pico Jump
 The Game: https://www.lexaloffle.com/bbs/?tid=43091
 
 ## Creators: 
