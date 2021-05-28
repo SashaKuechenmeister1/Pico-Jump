@@ -30,3 +30,8 @@ Raphael Ofeimu & Sasha Kuechenmeister
 ### Gameover Screen
 ![image](https://user-images.githubusercontent.com/55543651/118681101-9b997100-b7ff-11eb-89c3-e0217a45ceb4.png)
 
+### GIF
+![PicoJumpGif](https://user-images.githubusercontent.com/84401324/120000581-41549900-bfd3-11eb-832f-b2ffc1bbe561.gif)
+
+
+
